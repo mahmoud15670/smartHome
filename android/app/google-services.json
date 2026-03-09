@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "193827802677",
+    "firebase_url": "https://smarthome-802c9-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-802c9",
+    "storage_bucket": "smarthome-802c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193827802677:android:369ec6a89a8e852a75eb7c",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMS-V6x0mBrOPZu2kQq1pjNAnbkg8I6c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193827802677:android:83b9a9ff1bdebaeb75eb7c",
+        "android_client_info": {
+          "package_name": "com.mgh.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMS-V6x0mBrOPZu2kQq1pjNAnbkg8I6c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
